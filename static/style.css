@@ -1,0 +1,14 @@
+body {
+    background-color: #121212;
+    color: #f1f1f1;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+table.table-dark th, table.table-dark td {
+    border-color: #333;
+}
+
+.btn-primary {
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}
